@@ -58,7 +58,7 @@
 }
 .imgbackground{
     width: 100vw;
-    height: calc(100vh);
+    height: 100vh;
 }
 .imgcon::-webkit-scrollbar {
   display: none; /* 크롬, 사파리, 오페라, 엣지 */
