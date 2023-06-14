@@ -54,6 +54,11 @@
 .imgcon{
   -ms-overflow-style: none; /* 인터넷 익스플로러 */
   scrollbar-width: none; /* 파이어폭스 */
+  margin-top: 55px;
+}
+.imgbackground{
+    width: 100vw;
+    height: calc(100vh);
 }
 .imgcon::-webkit-scrollbar {
   display: none; /* 크롬, 사파리, 오페라, 엣지 */

@@ -32,15 +32,13 @@ function study() {
       </navigator>
       <div className={styels.StopScrolling}>
         <div className={styels.imgcon}>
-        <img src='./images/study_back.jpg' width={"100%"} alt='back'/>
+        <img src='./images/study_back.jpg' className={styels.imgbackground} width={"100%"} height={"100%"} alt='back'/>
         </div>
       </div>
     </div>
 
   );
 }
-
-
 
 export default study;
 
