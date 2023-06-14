@@ -66,8 +66,9 @@
 }
 .box{
     position: relative;
-    z-index: 1;
+
 }
 .student{
     position: absolute;
+    z-index: 1;
 }
