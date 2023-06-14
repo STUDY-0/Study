@@ -59,7 +59,15 @@
 .imgbackground{
     width: 100vw;
     height: 100vh;
+    position: absolute;
 }
 .imgcon::-webkit-scrollbar {
   display: none; /* 크롬, 사파리, 오페라, 엣지 */
+}
+.box{
+    position: relative;
+    z-index: 1;
+}
+.student{
+    position: absolute;
 }
